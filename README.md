@@ -1,1 +1,3 @@
 # Project-2-
+
+This presentation walks through the process of acquiring, cleaning, and analyzing data from multiple datasets. Key steps include loading data with pandas, inspecting and cleaning columns, merging datasets, and analyzing unique values and central tendencies. It further explores combining all datasets for comprehensive analysis, handling missing values, detecting outliers using the IQR method, and examining skewness and correlations with a heatmap. Key insights, such as the impact of weather, temperature, user type differences, seasonality, holiday influence, and interdependencies among variables, are highlighted to optimize fleet operations.
